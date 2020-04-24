@@ -1,10 +1,3 @@
-// 这个 notes.md 是从“react_express_selfmaking”复制粘贴过来的。
-
-<!-- this is a starter-kit that i made following this video: https://www.youtube.com/watch?v=v0t42xBIYIs, I will be remaking one call "react-express-starter-tong" -->
-
-working: this kid is completed and working well,
-follow-up: remaking in "react-express-starter-tong",
-github: not yet pushed
 clone: run npm install & npm run client-install
 run: npm run dev (run server+client concurrently)
 
@@ -140,4 +133,4 @@ line10: (running in develoment mode, client + server )
 line7:
 "client-install": "cd client && npm install",
 
-整个 app 我又重新跑了一遍在： “react-express-starter-tong”， 没有什么问题。
+整个 app 我又重新跑了一遍在： “react-express-starter-tong”， 没有什么问题。 (https://www.youtube.com/watch?v=v0t42xBIYIs)
